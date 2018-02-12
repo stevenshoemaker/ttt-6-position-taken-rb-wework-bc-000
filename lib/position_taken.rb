@@ -1,6 +1,6 @@
-def position_taken (index)
+def position_taken? (board,index)
   index = input.to_i - 1
-   if position_taken [index] == " "
+   if board [index] == " "
  end
 end
   
