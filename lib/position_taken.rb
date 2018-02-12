@@ -4,6 +4,6 @@ if board [index] == " " || ""
   end
 end
   
-  if board [index] == "X" || "O"
+  if position_taken? == "X" || "O"
     true
   end
