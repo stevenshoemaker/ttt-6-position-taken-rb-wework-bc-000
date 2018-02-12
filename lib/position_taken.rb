@@ -1,2 +1,3 @@
-def position_taken
+def position_taken (index)
+  index = input
   
